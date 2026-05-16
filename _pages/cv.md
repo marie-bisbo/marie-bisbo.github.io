@@ -30,17 +30,19 @@ Work experience
   
 Projects
 ======
-* Unannounced AAA Game | Unreal Engine 5
-* Mavrix | Unreal Engine 5
+* Unannounced AAA Game, Unreal Engine 5
+  * Editor tooling for the design team
+  * Splines and maths-heavy calculations 
+* Mavrix, Unreal Engine 5
   * Worked on porting the game to PS5 and XBox series S and X
   * Debugged general and platform-specific memory issues using Unreal Insights and the Low Level Memory Tracker
   * Worked extensively on improving performance and achieving stability using Unreal Insights
   * Worked on meeting console requirements for successful submission
   * Setup automated testing using Gauntlet and TeamCity and created scripts and tools to automatically track performance
-* Sea of Thieves | Unreal Engine 4
+* Sea of Thieves, Unreal Engine 4
   * Worked on anti-cheat measures in reaction to common problems identified from the player community
   * Identified vulnerabilities and implemented a variety of solutions including server-authoritative code  
-* Unannounced VR Game | Unreal Engine 5
+* Unannounced VR Game, Unreal Engine 5
   *  Developed a new IP in VR from concept through to production. Rapidly created a variety of different gameplay prototypes
   *  Took prototypes to shipping quality with performance optimisations, Multiplayer support and serialisation
   *  Helped deliver multiple key milestones
@@ -48,11 +50,11 @@ Projects
     * Gadget system for different farming tasks like watering, mining and scanning
     * Resource mining system
     * Watering system
-* Audit Tool
+* Audit Tool, Python 
   * Developed a dockerised web app using Django and Vue that analyses reporting data from multiple advertising platforms, and generates processed results in both Slides and Spreadsheet format
-* Machine Learning Product Classifier
+* Machine Learning Product Classifier, Python
   * Developed a machine learning pipeline for classifying products, using scikit-learn to implement a linear probabilistic classification model, and using nltk and spacy for natural language processing
-* Offline Conversions Uploader
+* Offline Conversions Uploader, Python
   * Automatic processing, validation, and upload of BigQuery data via an App Engine app hosted on Google Cloud
  
 Education
